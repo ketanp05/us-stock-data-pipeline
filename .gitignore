@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Environment Variables
+.env
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# Docker
+*.log
+docker-compose.override.yml
