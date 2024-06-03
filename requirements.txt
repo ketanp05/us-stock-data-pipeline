@@ -2,6 +2,7 @@ boto3
 pandas
 requests
 apache-airflow
+apache-airflow
 alpha_vantage
 iexfinance
 yfinance
