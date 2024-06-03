@@ -1,0 +1,9 @@
+boto3
+pandas
+requests
+apache-airflow
+alpha_vantage
+iexfinance
+yfinance
+beautifulsoup4
+selenium
